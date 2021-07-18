@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10514e34-fba7-4eb4-907a-7c9512e33f76" name="Default Changelist" comment="Teste inicial">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/one/digitalinnovation/beerstock/controller/BeerControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/one/digitalinnovation/beerstock/controller/BeerControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/one/digitalinnovation/beerstock/service/BeerServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/one/digitalinnovation/beerstock/service/BeerServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vQERuquvqkmsAeZgqUt7n1H1df" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="JUnit.BeerControllerTest.whenGETIsCalledWithoutRegisteredNameThenNotFoundStatusIsReturned">
+    <configuration name="BeerControllerTest.whenGETIsCalledWithoutRegisteredNameThenNotFoundStatusIsReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="beerstock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.digitalinnovation.beerstock.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="one.digitalinnovation.beerstock.controller" />
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.beerstock.controller.BeerControllerTest" />
+      <option name="METHOD_NAME" value="whenGETIsCalledWithoutRegisteredNameThenNotFoundStatusIsReturned" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeerControllerTest.whenGETListWithBeersIsCalledThenOkStatusIsReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="beerstock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.digitalinnovation.beerstock.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="one.digitalinnovation.beerstock.controller" />
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.beerstock.controller.BeerControllerTest" />
+      <option name="METHOD_NAME" value="whenGETListWithBeersIsCalledThenOkStatusIsReturned" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeerControllerTest.whenPOSTIsCalledWithoutRequiredFieldThenAnErrorIsReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="beerstock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.digitalinnovation.beerstock.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="one.digitalinnovation.beerstock.controller" />
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.beerstock.controller.BeerControllerTest" />
+      <option name="METHOD_NAME" value="whenPOSTIsCalledWithoutRequiredFieldThenAnErrorIsReturned" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeerServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="beerstock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.digitalinnovation.beerstock.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="one.digitalinnovation.beerstock.service" />
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.beerstock.service.BeerServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeerServiceTest.whenBeerInformedThenItShouldBeCreated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="beerstock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.digitalinnovation.beerstock.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="one.digitalinnovation.beerstock.service" />
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.beerstock.service.BeerServiceTest" />
+      <option name="METHOD_NAME" value="whenBeerInformedThenItShouldBeCreated" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BeerControllerTest.whenGETIsCalledWithoutRegisteredNameThenNotFoundStatusIsReturned" />
+        <item itemvalue="JUnit.BeerControllerTest.whenGETListWithBeersIsCalledThenOkStatusIsReturned" />
+        <item itemvalue="JUnit.BeerControllerTest.whenPOSTIsCalledWithoutRequiredFieldThenAnErrorIsReturned" />
+        <item itemvalue="JUnit.BeerServiceTest" />
+        <item itemvalue="JUnit.BeerServiceTest.whenBeerInformedThenItShouldBeCreated" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10514e34-fba7-4eb4-907a-7c9512e33f76" name="Default Changelist" comment="" />
+      <created>1626485910466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626485910466</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Teste inicial">
+      <created>1626617361202</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626617361202</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Teste inicial">
+      <created>1626617856456</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626617856456</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Teste inicial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teste inicial" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/beer_api_digital_innovation_one_master$BeerControllerTest_whenGETListWithBeersIsCalledThenOkStatusIsReturned.ic" NAME="BeerControllerTest.whenGETListWithBeersIsCalledThenOkStatusIsReturned Coverage Results" MODIFIED="1626615866100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>one.digitalinnovation.beerstock.controller.*</FILTER>
+    </SUITE>
+  </component>
+</project>
